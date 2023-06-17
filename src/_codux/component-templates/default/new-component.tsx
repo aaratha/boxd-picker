@@ -1,5 +1,6 @@
 import styles from './new-component.module.scss';
 import classNames from 'classnames';
+import React from 'react';
 
 export interface NewComponentProps {
     className?: string;
